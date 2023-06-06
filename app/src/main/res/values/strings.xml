@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TicTacToe</string>
+    <string name="welcome_message_part1">@string/app_name</string>
+    <string name="switch_to_title_menu_text">Tap to Start</string>
 </resources>
